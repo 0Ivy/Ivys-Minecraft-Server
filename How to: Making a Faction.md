@@ -3,7 +3,7 @@ So you wish to start a faction, I see? Well, I hope you have it in ya. If you wi
 
 ## Steps:
 1. Simply start off by going into the server, and do the `/wilderness` command until you find a nice piece of land you wish to colonize on.
-2. Next, simply do the `/f create command`, with your Faction name. `Ex. /f create NobleFaction`
+2. Next, simply do the `/f create` command, with your Faction name. `Ex. /f create NobleFaction`
 3. Then, from there, you will be able to do the `</f claim>` to claim land towards your faction.
 4. Once your faction is made in the server, contact a member of the Minecraft Staff team to receive a discord server template, in which you can use it to make your own discord server for your faction.
 5. Once your server is configured to your liking, do the following commands in-game:
