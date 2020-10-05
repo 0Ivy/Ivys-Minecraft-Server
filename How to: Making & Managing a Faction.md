@@ -12,7 +12,7 @@ So you wish to start a faction, I see? Well, I hope you have it in ya. If you wi
 * `/f discord` - This command will link your Minecraft account with your discord account, through our Factions Manager bot.
 * `/f invitebot` - This command will allow you to invite the Factions Manager Bot your discord server.
 * `/f setguild <guildID>` - This command links your faction to your discord server.
-> Note: To find the guild(server) ID for your server, follow this guide [here](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-).
+> Note: To find the guild(server)ID for your server, follow this guide [here](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-).
 6. After you have successfully linked both your faction and faction server together, you can now do the following commands in your discord server, in #bot-management:
 * `.setfchatchannel #global-chat` - This will link in-game faction chat to your discord global chat channel.
 * `.setmemberrole @Faction Member` - This will link the member role in both in-game and in discord.
@@ -62,7 +62,7 @@ Moderator | Truce
 Normal | Enemy
 Recruit | 
 
-To promote people in your faction, use the `/f promote` command
+To promote people in your faction, use the `/f promote` command.
 
 ## Faction Tips & Features:
 
